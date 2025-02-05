@@ -28,7 +28,7 @@
 }
 .menu a{
     margin-right: 10px;
-    font-size: 1.3em;
+    font-size: 18px;
     text-decoration: none;
     color: #be485c;
 }
@@ -79,7 +79,7 @@ header h1{
 .uno p{
     text-align: center;
     color: black;
-    font-size: 1.2em;
+    font-size: 20px;
 }
 .dos h1{
     text-align: right;
@@ -87,7 +87,7 @@ header h1{
 }
 .dos p{
     text-align: right;
-    font-size: 1.1em;
+    font-size: 20px;
 }
 
 .left{
@@ -113,7 +113,7 @@ header h1{
 }
 .left h1, .center h1, .right h1{
     color: #be485c;
-    font-size: 1.3em;
+    font-size: 20px;
 }
 .tres{
     float: left;
@@ -142,7 +142,7 @@ header h1{
 }
 .cuatro p, .tres p{
     color: black;
-    font-size: 1.2em;
+    font-size: 20px;
 }
 footer{
     clear: both;
