@@ -13,7 +13,7 @@
 .logo img{
     float: left;
     width: 10%;
-    height: 80px;
+    height: auto;
     background-color: #be485c;
     text-align: center;
     line-height: 80px;
@@ -27,8 +27,9 @@
 
 }
 .menu a{
-    margin-right: 10px;
-    font-size: 18px;
+    margin-right: 5%;
+    margin-left: 5%;
+    font-size: 1.3em;
     text-decoration: none;
     color: #be485c;
 }
@@ -37,9 +38,11 @@
     width: 30%;
     height: 80px;
     background-color: #be485c;
+    text-align: center;
 }
 .redes i{
-    margin-left: 15px;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 header{
     clear: both;
@@ -79,7 +82,7 @@ header h1{
 .uno p{
     text-align: center;
     color: black;
-    font-size: 20px;
+    font-size: 1.2em;
 }
 .dos h1{
     text-align: right;
@@ -87,7 +90,7 @@ header h1{
 }
 .dos p{
     text-align: right;
-    font-size: 20px;
+    font-size: 1.1em;
 }
 
 .left{
@@ -113,16 +116,16 @@ header h1{
 }
 .left h1, .center h1, .right h1{
     color: #be485c;
-    font-size: 20px;
+    font-size: 1.3em;
 }
 .tres{
+    clear: both;
     float: left;
     height: 200px;
     width: 30%;
     padding: 10px;
     text-align: justify;
     background-color: pink;
-    margin-bottom: 20px;
     border-radius: 10px;
 }
 .cuatro{
@@ -131,18 +134,17 @@ header h1{
     width: 70%;
     padding: 10px;
     text-align: center;
-    margin-bottom: 20px;
 }
-.tres h1{
+.tres h2{
     color: #be485c;
     
 }
-.cuatro h1{
+.cuatro h2{
     color: #be485c;
 }
 .cuatro p, .tres p{
     color: black;
-    font-size: 20px;
+    font-size: 1.2em;
 }
 footer{
     clear: both;
